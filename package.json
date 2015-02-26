@@ -26,6 +26,7 @@
     "machines": [
       "list-apps",
       "add-app-setup",
+      "add-dyno"
     ],
     "testsUrl": "https://travis-ci.org/"
   },
