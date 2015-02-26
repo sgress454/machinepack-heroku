@@ -25,6 +25,7 @@
     "machineDir": "machines/",
     "machines": [
       "list-apps",
+      "add-app-setup",
     ],
     "testsUrl": "https://travis-ci.org/"
   },
