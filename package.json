@@ -23,7 +23,9 @@
   "machinepack": {
     "friendlyName": "Heroku",
     "machineDir": "machines/",
-    "machines": [],
+    "machines": [
+      "list-apps",
+    ],
     "testsUrl": "https://travis-ci.org/"
   },
   "repository": {
