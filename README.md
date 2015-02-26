@@ -8,7 +8,7 @@
 Work with the Heroku API.
 
 
-## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-heroku.svg)](http://badge.fury.io/js/machinepack-heroku) [![Build Status](https://travis-ci.org/mikermcneil/machinepack-heroku.png?branch=master)](https://travis-ci.org/mikermcneil/machinepack-heroku)
+## Installation &nbsp; [![NPM version](https://badge.fury.io/js/machinepack-heroku.svg)](http://badge.fury.io/js/machinepack-heroku) [![Build Status](https://travis-ci.org/sgress454/machinepack-heroku.png?branch=master)](https://travis-ci.org/sgress454/machinepack-heroku)
 
 ```sh
 $ npm install machinepack-heroku
