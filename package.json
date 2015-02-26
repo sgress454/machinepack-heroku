@@ -1,0 +1,32 @@
+{
+  "name": "machinepack-heroku",
+  "version": "0.1.0",
+  "description": "Work with the Heroku API.",
+  "scripts": {
+    "test": "node ./node_modules/test-machinepack-mocha/bin/testmachinepack-mocha.js"
+  },
+  "keywords": [
+    "Heroku",
+    "machines",
+    "machinepack"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "machine": "^1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "test-machinepack-mocha": "^0.2.2"
+  },
+  "machinepack": {
+    "friendlyName": "Heroku",
+    "machineDir": "machines/",
+    "machines": [],
+    "testsUrl": "https://travis-ci.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgress454/machinepack-heroku.git"
+  }
+}
