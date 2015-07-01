@@ -13,12 +13,12 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "machine": "^2.0.2",
+    "machine": "^10.3.1",
     "machinepack-http": "^2.0.1"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
-    "test-machinepack-mocha": "^0.2.2"
+    "test-machinepack-mocha": "^2.1.1"
   },
   "machinepack": {
     "friendlyName": "Heroku",
